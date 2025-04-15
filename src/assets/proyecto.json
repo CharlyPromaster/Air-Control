@@ -1,0 +1,53 @@
+[
+    {
+      "id": "proyecto1",
+      "titulo": "Capilla Huachipa – ASPERSUD",
+      "descripcion": "Suministro e instalación de sistemas de aire acondicionado VRF Frío Calor DVM S2 marca Samsung.",
+      "imagen": "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+      "imagenes_extras": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png"
+      ]
+    },
+    {
+      "id": "proyecto1",
+      "titulo": "Hospital de Emergencia Villa El Salvador",
+      "descripcion": "Implementación de sistema de Aire Acondicionado (UTA) y Ventilación Mecánica para pacientes Covid-19.",
+      "imagen": "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+      "imagenes_extras": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png"
+      ]
+    },
+    {
+      "id": "proyecto1",
+      "titulo": "SUNAT - Sede Villa El Salvador",
+      "descripcion": "Implementación completa de sistemas de Aire Acondicionado MULTI V (VRF) y Ventilación Mecánica.",
+      "imagen": "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+      "imagenes_extras": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png"
+      ]
+    },
+    {
+      "id": "proyecto1",
+      "titulo": "Oficinas UNESCO",
+      "descripcion": "Sistema de Aire Acondicionado VRF de la marca YORK para las oficinas de UNESCO.",
+      "imagen": "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+      "imagenes_extras": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png"
+      ]
+    },
+    {
+     "id": "proyecto1",
+      "titulo": "Panadería – Pastelería LA NUEZ",
+      "descripcion": "Suministro e instalación de equipos de aire acondicionado con sistema de Purificación UVC y ventilación mecánica.",
+      "imagen": "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+      "imagenes_extras": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744682557/EJEMPLO_pyjxky.png"
+      ]
+    }
+  ]
+  

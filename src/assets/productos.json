@@ -1,0 +1,306 @@
+[
+    {
+        "id": "samsung-split-24000-eco-inverter",
+        "nombre": "Aire Acondicionado Split Samsung Pared 24,000 BTU/h Eco Inverter Frío Solo",
+        "descripcion": "Equipo de aire acondicionado tipo Split de pared, ideal para ambientes medianos a grandes. Cuenta con tecnología Eco Inverter que optimiza el consumo energético, proporcionando enfriamiento rápido y eficiente sin interrupciones.",
+        "categoria": "Aires Domésticos",
+        "caracteristicas": [
+            "Tecnología Eco Inverter para ahorro de energía.",
+            "Frío Solo para climas cálidos.",
+            "Control remoto incluido.",
+            "Filtro de aire lavable.",
+            "Sistema de autodiagnóstico.",
+            "Función de reinicio automático."
+          ],
+        "marca": "Samsung",
+        "tipo": "Split Pared",
+        "capacidad_btu": 24000,
+        "tecnologia": "Inverter",
+        "modo": "Frío Solo",
+        "imagenes": [
+          "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744478715/1_m6tskv.jpg",
+          "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744478715/2_c7g11t.jpg",
+          "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744478716/3_beojax.jpg"
+        ],
+        "etiquetas": ["eficiencia energética", "silencioso", "inverter", "samsung", "pared", "frío"]
+    },
+    {
+      "id": "daikin-split-24000-frio-solo",
+      "nombre": "Aire Acondicionado Split Pared Daikin 24,000 Btu Frio Solo",
+      "descripcion": "Eficiencia japonesa en climatización. Ideal para ambientes amplios, con tecnología inverter que reduce el consumo energético y garantiza un enfriamiento rápido y silencioso.",
+      "categoria": "Aires Domésticos",
+      "caracteristicas": [
+        "Capacidad de 24,000 BTU/h para enfriamiento efectivo en espacios grandes.",
+        "Tecnología Inverter que ajusta la velocidad del compresor para un ahorro energético.",
+        "Modo de operación Frío Solo para un enfriamiento constante.",
+        "Alta eficiencia energética (Clase A).",
+        "Diseño elegante y compacto, ideal para instalación en paredes.",
+        "Flujo de aire tridimensional para una distribución uniforme.",
+        "Filtro de aire de alta densidad que mejora la calidad del aire.",
+        "Auto-reinicio después de un corte de energía.",
+        "Tecnología de bajo ruido para un funcionamiento silencioso.",
+        "Refrigerante ecológico R-32, respetuoso con el medio ambiente."
+      ],
+      "marca": "Daikin",
+      "tipo": "Split Pared",
+      "capacidad_btu": 24000,
+      "tecnologia": "Inverter",
+      "modo": "Frío Solo",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744478716/4_rxuewf.jpg",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744478716/5_xmbs72.jpg",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744478719/6_f23eqr.jpg"
+      ]
+    },
+    {
+      "id": "lg-split-12000-frio-solo",
+      "nombre": "Aire Acondicionado Split LG 12,000 Btu Pared frio solo",
+      "descripcion": "Rendimiento confiable y elegante diseño. Este modelo LG de 12,000 BTU es perfecto para habitaciones medianas, con tecnología inverter para un ahorro energético significativo y un ambiente silencioso. Ideal para el clima cálido peruano.",
+      "categoria": "Aires Domésticos",
+      "caracteristicas": [
+        "Compresor Dual Inverter: ahorro de energía de hasta 70% y enfriamiento 40% más rápido.",
+        "Operación silenciosa: bajo nivel de ruido para mayor confort.",
+        "Filtro de aire antibacteriano: captura polvo y bacterias.",
+        "Modo Jet Cool: enfriamiento rápido de ambientes.",
+        "Temporizador programable",
+        "Función de autodiagnóstico",
+        "Diseño compacto y moderno",
+        "Pantalla digital oculta"
+      ],
+      "marca": "LG",
+      "tipo": "Split Pared",
+      "capacidad_btu": 12000,
+      "tecnologia": "Inverter",
+      "modo": "Frío Solo",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744484122/7_jziryn.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744484123/9_z9jtga.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744484123/8_autdaj.png"
+      ],
+      "etiquetas": ["lg", "frío y calor", "inverter", "climatización", "hogar", "eficiencia"]
+    },
+    {
+      "id": "midea-split-12000-frio-calor",
+      "nombre": "Aire Acondicionado Split Midea 12,000 BTU/h Frío y Calor",
+      "descripcion": "Confort todo el año con el aire acondicionado Split Midea de 12,000 BTU/h. Gracias a su tecnología Inverter y sistema de Frío/Calor, puedes mantener tu ambiente agradable en cualquier estación del año, ahorrando energía y disfrutando del silencio.",
+      "categoria": "Aires Domésticos",
+      "caracteristicas": [
+      "Función Frío y Calor para uso durante todo el año.",
+      "Capacidad de 12,000 BTU/h, ideal para espacios de 20 a 25 m².",
+      "Tecnología Inverter para menor consumo energético.",
+      "Modo Turbo para enfriamiento o calefacción rápida.",
+      "Operación silenciosa para mayor confort.",
+      "Función Sleep para temperatura ideal durante la noche.",
+      "Reinicio automático después de cortes eléctricos.",
+      "Filtro de alta densidad que purifica el aire del ambiente."
+      ],
+      "marca": "Midea",
+      "tipo": "Split Pared",
+      "capacidad_btu": 12000,
+      "tecnologia": "Inverter",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744485811/10_b6tuk5.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744485811/12_dqdgwq.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744485811/11_pfkxyp.png"
+      ],
+      "etiquetas": ["midea", "frío y calor", "inverter", "climatización", "hogar", "eficiencia"]
+    },
+    {
+      "id": "lg-split-18000-frio-calorr",
+      "nombre": "Aire Acondicionado Split LG 18,000 BTU/h Frío y Calor Dual Inverter",
+      "descripcion": "Climatiza tu hogar con el LG Dual Inverter de 18,000 BTU/h. Este aire acondicionado brinda máxima eficiencia energética con tecnología inverter y doble función de climatización: frío y calor, ideal para todo el año.",
+      "categoria": "Aires Domésticos",
+      "caracteristicas": [
+      "Modo Frío y Calor para todas las estaciones.",
+      "Tecnología Dual Inverter para mayor ahorro energético y rapidez.",
+      "18,000 BTU/h para ambientes de tamaño mediano a grande.",
+      "Control Wi-Fi desde la app LG ThinQ.",
+      "Operación ultrasilenciosa y eficiente.",
+      "Función Jet Cool para enfriamiento rápido.",
+      "Filtro de aire de doble protección contra polvo y bacterias.",
+      "Reinicio automático y autodiagnóstico inteligente."
+      ],
+      "marca": "LG",
+      "tipo": "Split Pared",
+      "capacidad_btu": 18000,
+      "tecnologia": "Dual Inverter",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744486997/13_ivgkjo.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744486997/15_k5z8ix.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744486997/14_hx747j.png"
+      ],
+      "etiquetas": ["lg", "frío y calor", "inverter", "climatización", "hogar", "eficiencia"]
+    },
+    {
+      "id": "daikin-cassette-48000-frio-calor",
+      "nombre": "Aire Acondicionado Cassette Daikin 48,000 BTU/h Frío y Calor",
+      "descripcion": "Potencia y rendimiento confiable para grandes espacios. El aire acondicionado cassette Daikin de 48,000 BTU/h está diseñado para climatización comercial e industrial, con distribución de aire uniforme en 360° y eficiencia energética superior.",
+      "categoria": "Aires Industriales",
+      "caracteristicas": [
+    "Cassette de 4 vías con salida de aire en 360° para cobertura total.",
+    "Capacidad de 48,000 BTU/h, ideal para oficinas, locales y espacios industriales.",
+    "Modo Frío y Calor para operación todo el año.",
+    "Tecnología Inverter para ahorro energético y desempeño estable.",
+    "Bajo nivel de ruido, ideal para espacios comerciales.",
+    "Refrigerante ecológico R-410A.",
+    "Control remoto por cable o inalámbrico.",
+    "Drenaje automático de condensado.",
+    "Sistema de autodiagnóstico integrado."
+      ],
+      "marca": "Daikin",
+      "tipo": "Cassette",
+      "capacidad_btu": 48000,
+      "tecnologia": "Inverter",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744487854/16_brokob.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744487854/17_dtobs2.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744487989/18_xtoa6o.png"
+      ],
+      "etiquetas": ["industrial", "cassette", "frío y calor", "alta capacidad", "daikin", "inverter"]
+    },
+    {
+      "id": "lg-piso-techo-60000-frio-calor",
+      "nombre": "Aire Acondicionado Piso-Techo LG 60,000 BTU/h Frío y Calor",
+      "descripcion": "Máximo rendimiento en ambientes industriales y comerciales. El LG Piso-Techo de 60,000 BTU/h es una solución potente y eficiente para climatizar grandes espacios con control preciso de temperatura todo el año.",
+      "categoria": "Aires Industriales",
+      "caracteristicas": [
+        "Capacidad de 60,000 BTU/h, perfecto para salones, auditorios o almacenes.",
+        "Diseño versátil para instalación tanto en el suelo como en el techo.",
+        "Modo Frío y Calor para uso durante todo el año.",
+        "Alta eficiencia energética con tecnología Inverter.",
+        "Refrigerante ecológico R-410A.",
+        "Flujo de aire de largo alcance y oscilación automática.",
+        "Operación silenciosa ideal para espacios habitados.",
+        "Panel de control con temporizador y múltiples modos de operación.",
+        "Sistema de autodiagnóstico y reinicio automático."
+      ],
+      "marca": "LG",
+      "tipo": "Piso-Techo",
+      "capacidad_btu": 60000,
+      "tecnologia": "Inverter",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744488367/19_aord4u.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744488367/20_qszqki.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744488368/21_ml2jgx.png"
+      ],
+      "etiquetas":["industrial", "piso techo", "lg", "frío y calor", "alta capacidad", "inverter"]
+    },
+    {
+      "id": "midea-cassette-36000-frio-calor",
+      "nombre": "Aire Acondicionado Cassette Midea 36,000 BTU/h Frío y Calor",
+      "descripcion": "Solución ideal para espacios comerciales con falso techo. Este equipo tipo cassette de Midea ofrece climatización potente, distribución uniforme del aire y eficiencia energética en modo frío y calor.",
+      "categoria": "Aires Industriales",
+      "caracteristicas": [
+        "Capacidad de 36,000 BTU/h, perfecta para oficinas, tiendas o salas de reuniones amplias.",
+        "Diseño tipo cassette para montaje en techos falsos.",
+        "Modo Frío y Calor para todo el año.",
+        "Distribución de aire en 4 vías para máxima cobertura.",
+        "Bomba de drenaje integrada para facilitar la instalación.",
+        "Tecnología Inverter para menor consumo eléctrico.",
+        "Filtro de alta eficiencia para aire más limpio.",
+        "Funcionamiento silencioso.",
+        "Control remoto inalámbrico incluido.",
+        "Refrigerante ecológico R-410A."
+      ],
+      "marca": "Midea",
+      "tipo": "Cassette",
+      "capacidad_btu": 36000,
+      "tecnologia": "Inverter",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744489013/22_mwe0d0.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744489013/23_tnx7m8.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744489014/24_qgiheb.png"
+      ],
+      "etiquetas": ["cassette", "industrial", "frío y calor", "midea", "inverter", "oficinas"]
+    },
+    {
+      "id": "york-cassette-48000-frio-calor",
+      "nombre": "Aire Acondicionado Cassette York 48,000 BTU/h Frío y Calor",
+      "descripcion": "El sistema Cassette de York es ideal para oficinas, tiendas y espacios comerciales medianos. Se instala en el techo y distribuye el aire en 4 direcciones para una climatización uniforme y discreta. Con funciones avanzadas y bajo consumo energético.",
+      "categoria": "Aires Industriales",
+      "caracteristicas": [
+        "Capacidad de 48,000 BTU/h ideal para ambientes comerciales.",
+        "Instalación tipo Cassette, empotrado en el techo.",
+        "Flujo de aire en 4 vías para distribución uniforme.",
+        "Modo Frío y Calor, adaptable a cualquier estación.",
+        "Control remoto y opción de termostato de pared.",
+        "Bajo nivel de ruido para ambientes profesionales.",
+        "Filtros de aire lavables y de fácil acceso.",
+        "Tecnología de ahorro energético.",
+        "Refrigerante ecológico R-410A.",
+        "Función de reinicio automático después de apagones."
+      ],
+      "marca": "York",
+      "tipo": "Cassette",
+      "capacidad_btu": 36000,
+      "tecnologia": "Convencional",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744489710/25_gduurb.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744489711/26_so2eex.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744489711/27_svnrzo.png"
+      ],
+      "etiquetas": ["cassette", "industrial", "frío y calor", "midea", "inverter", "oficinas"]
+    },
+    {
+      "id": "samsung-cassette-360-frio-calor",
+      "nombre": "Aire Acondicionado Cassette 360° Samsung – Frío y Calor",
+      "descripcion": "Diseño circular único para una distribución de aire en 360 grados sin corrientes directas. Ideal para espacios comerciales modernos que buscan confort y estilo. Disponible en modos Frío Solo y Frío-Calor para una climatización completa.",
+      "categoria": "Aires Comerciales",
+      "caracteristicas": [
+        "Distribución de aire en 360° sin aletas para un confort uniforme.",
+        "Diseño moderno y elegante que se integra con techos de interiores premium.",
+        "Modo Frío y Calor para uso en cualquier estación del año.",
+        "Tecnología Digital Inverter para ahorro energético.",
+        "Control remoto o sistema de control centralizado.",
+        "Fácil instalación con menor profundidad de montaje.",
+        "Funcionamiento silencioso.",
+        "Sensor de presencia opcional para eficiencia energética.",
+        "Refrigerante ecológico R-410A.",
+        "Ideal para oficinas, boutiques, salas de espera y más."
+      ],
+      "marca": "Samsung",
+      "tipo": "Cassette 360°",
+      "capacidad_btu": 48000,
+      "tecnologia": "Digital Inverter",
+      "modo": "Frío/Calor",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744491778/28_azw8qn.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744491783/30_sjjskx.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744491779/29_sea1nq.png"
+      ],
+      "etiquetas": ["samsung", "cassette", "360 grados", "frío y calor", "comercial", "elegante", "moderno"]
+    },
+    {
+      "id": "midea-portatil-12000-frio-solo",
+      "nombre": "Aire Acondicionado Portátil Midea 12,000 BTU Frío Solo",
+      "descripcion": "Diseñado para espacios reducidos, este aire acondicionado portátil de Midea ofrece una solución práctica y eficiente. No requiere instalación y se puede mover fácilmente gracias a sus ruedas integradas.",
+      "categoria": "Aires Portátiles",
+      "caracteristicas": [
+        "Capacidad de 12,000 BTU/h para enfriamiento eficiente.",
+        "Portátil y fácil de trasladar con ruedas incorporadas.",
+        "Función Frío Solo, ideal para climas cálidos.",
+        "Filtro de aire lavable y reutilizable.",
+        "Panel de control digital y control remoto incluido.",
+        "Temporizador programable.",
+        "Bajo nivel de ruido para mayor confort.",
+        "Refrigerante ecológico R-410A."
+      ],
+      "marca": "Midea",
+      "tipo": "Portátil°",
+      "capacidad_btu": 12000,
+      "tecnologia": "Convencional",
+      "modo": "Frío Solo",
+      "imagenes": [
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744492447/31_oskffs.png",
+        "https://res.cloudinary.com/dqlo0hvvh/image/upload/v1744492447/32_dgmrvj.png"
+      ],
+      "etiquetas": ["samsung", "cassette", "360 grados", "frío y calor", "comercial", "elegante", "moderno"]
+    }
+  ]
+  
